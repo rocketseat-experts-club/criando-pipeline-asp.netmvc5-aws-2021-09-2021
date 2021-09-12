@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    PROJECT: PipelineAspNetMvc5.Web
+    PROJECT: PipelineAspNet5
     DOTNET_FRAMEWORK: 4.8
 phases:
   build:

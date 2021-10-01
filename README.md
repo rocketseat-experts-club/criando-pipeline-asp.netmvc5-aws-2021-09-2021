@@ -4,7 +4,7 @@
 # Criando pipeline para aplicação ASP.NET MVC 5 com AWS
 
 
-Nesta aula vamos criar uma pipeline responsável por publicar uma aplicação desenvolvida com ASP.NET MVC 5 utilizando AWS Elastic Beanstalk e AWS Code build. 
+Nesta aula vamos criar uma pipeline responsável por publicar uma aplicação desenvolvida com ASP.NET MVC 5 utilizando AWS Elastic Beanstalk e AWS Code Pipeline. Buscando sempre a segurança e integridade do nosso código, garantindo que nada do que foi publicado seja perdido! 
 
 ## Expert
 
